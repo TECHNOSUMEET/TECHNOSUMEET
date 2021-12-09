@@ -1,4 +1,4 @@
 - 👋 Hi, I’m SUMEET
 - 👀 I’m interested in Python, Data Science, ML.
 - 🌱 I’m currently learning Data Science, ML algorithms.
-- MY hibbies are playing/watching cricket, reading books.
+- My hibbies are reading books, playing/watching cricket.
